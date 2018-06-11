@@ -10,7 +10,9 @@ def summon_captain_planet(array)
   end
 end
 
-def long_planeteer_calls
+def long_planeteer_calls(array)
+  array.each do |word|
+  end
 end
 
 def find_the_cheese
